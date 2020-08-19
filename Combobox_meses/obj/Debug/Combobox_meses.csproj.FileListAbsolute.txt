@@ -1,0 +1,11 @@
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\bin\Debug\Combobox_meses.exe.config
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\bin\Debug\Combobox_meses.exe
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\bin\Debug\Combobox_meses.pdb
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\obj\Debug\Combobox_meses.csprojAssemblyReference.cache
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\obj\Debug\Combobox_meses.Form1.resources
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\obj\Debug\Combobox_meses.Properties.Resources.resources
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\obj\Debug\Combobox_meses.csproj.GenerateResource.cache
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\obj\Debug\Combobox_meses.csproj.CoreCompileInputs.cache
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\obj\Debug\Combobox_meses.exe
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\obj\Debug\Combobox_meses.pdb
+C:\Users\sam82\source\repos\Combobox_meses\Combobox_meses\obj\Debug\Combobox_meses.FormFechas.resources
